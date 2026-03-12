@@ -1,0 +1,14 @@
+{
+  "name": "axiom/wp-builder",
+  "description": "Axiom WP Builder plugin",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "AxiomWPBuilder\\": "src/php/"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.axiom-builder-admin .axiom-editor-shell {
+  background: #ffffff;
+  border: 1px solid #dcdcde;
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.axiom-builder-admin .axiom-editor-topbar {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.axiom-builder-admin #axiom-editor-output {
+  background: #1e1e1e;
+  border-radius: 6px;
+  color: #f5f5f5;
+  min-height: 180px;
+  overflow: auto;
+  padding: 12px;
+}
