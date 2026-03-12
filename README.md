@@ -302,7 +302,7 @@ GNU General Public License for more details.
 
 ## 📬 Stay Updated
 
-- **Website**: [axiombuilder.com](https://axiom-web.ri)
+- **Website**: [axiom web development](https://axiom-web.ru)
 - **Author**: [@Khan Igor](https://khxn.ru/AxiomBuilder)
 
 
