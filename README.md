@@ -302,10 +302,9 @@ GNU General Public License for more details.
 
 ## 📬 Stay Updated
 
-- **Website**: [axiombuilder.com](https://axiombuilder.com)
-- **Twitter**: [@AxiomBuilder](https://twitter.com/AxiomBuilder)
-- **Facebook**: [Axiom Builder](https://facebook.com/axiombuilder)
-- **WordPress.org**: [Plugin Page](https://wordpress.org/plugins/axiom-wp-builder/)
+- **Website**: [axiombuilder.com](https://axiom-web.ri)
+- **Author**: [@Khan Igor](https://khxn.ru/AxiomBuilder)
+
 
 ---
 
